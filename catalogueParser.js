@@ -10,5 +10,6 @@ fs.readFile(process.argv[2], {
 });
 
 function parse(data){
+  
   return data;
 }
